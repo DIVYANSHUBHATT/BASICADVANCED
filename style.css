@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color:green;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+input{
+    padding:20px;
+    margin-top:20px;
+}
+select{
+    font-size:20px;
+}
+button{
+background-color:aqua;
+color:white;
+padding:20px;
+cursor:pointer;
+}
